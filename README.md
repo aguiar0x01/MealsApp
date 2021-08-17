@@ -13,10 +13,10 @@
 
 <p align="center">Screenshots</p>
 <p align="center">
-  <img src="./apresentation/img/apresentatio_meals_0.jpg" width="150" height="">
-  <img src="./apresentation/img/apresentatio_meals_1.jpg" width="150" height="">
-  <img src="./apresentation/img/apresentatio_meals_2.jpg" width="150" height="">
-  <img src="./apresentation/img/apresentatio_meals_3.jpg" width="150" height="">
+  <img src="./apresentation/img/apresentation_meals_0.jpg" width="150" height="">
+  <img src="./apresentation/img/apresentation_meals_1.jpg" width="150" height="">
+  <img src="./apresentation/img/apresentation_meals_2.jpg" width="150" height="">
+  <img src="./apresentation/img/apresentation_meals_3.jpg" width="150" height="">
 </p>
 
 <br>
